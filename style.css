@@ -1,0 +1,32 @@
+/* 
+Name: Hannah
+Date: March 10, 2026
+Description: Added CSS formatting for website pages.
+- Changed background color of page
+- Changed text color and font family for h1 headings
+- Changed font size for paragraph text
+- Added border styling to paragraphs
+*/
+
+/* Change background color of page */
+body {
+    background-color: pink;
+}
+
+/* Change h1 text color and font */
+h1 {
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Change paragraph font size */
+p {
+    font-size: 18px;
+	color: yellow
+}
+
+/* New formatting option: add border around paragraphs */
+p {
+    border: 2px solid black;
+    padding: 10px;
+}
